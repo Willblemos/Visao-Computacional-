@@ -1,0 +1,11 @@
+Dada uma imagem de referência (em um arquivo jpg), o programa que encontra a imagem em cada frame de um video.
+
+Assuntos:
+
+- Extração de keypoints (pontos relevantes)
+
+- Extração de features locais (SIFT, SURF, FAST, ORB, ...)
+
+- Matching de features
+
+- Transformações geométricas (affine, homografia)
