@@ -1,0 +1,1 @@
+Este programa rastreia a posição de um laser frame-a-frame em um vídeo. Note que o vídeo no qual esse experimento é feito não está na pasta por ser muito grande, para que o programa rode, baixe o vídeo https://drive.google.com/file/d/0BwDE91tyeqhwSS1SZENIVFhZbDA/view e cole na pasta (e verifique se está com o mesmo nome declarado no código). 
