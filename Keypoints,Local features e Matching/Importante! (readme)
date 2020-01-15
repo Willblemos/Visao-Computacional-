@@ -1,4 +1,5 @@
-Dada uma imagem de referência o programa faz a extração de suas keypoints e features locais, e então compara com cada frame de um video, fazendo o matching de features.
+Dada uma imagem de referência o programa faz a extração de suas keypoints e features locais. 
+E então compara com cada frame de um video, fazendo o matching de features.
 
 
 >> Note que o vídeo não está na pasta por ser muito pesado, para que o codigo rode, baixe o vídeo deste link e renomeie para "video.mp4" : 
